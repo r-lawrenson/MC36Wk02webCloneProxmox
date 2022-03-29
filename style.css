@@ -88,14 +88,14 @@ body{
 }
 
 h1, h2, h3, p{
-    font-family: 'Arial Narrow Bold', sans-serif;
+    /* font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; */
     color: #444;
     text-align: center;
 }
 
 p{
     color: #777;
-    font-size: 14px;
+    font-size: 15px;
 }
 
 h1{
@@ -109,7 +109,7 @@ h2{
 }
 
 h3{  
-    font-size: 14/20px;
+    font-size: 18px;
 }
 
 .main-top{
@@ -169,6 +169,10 @@ h3{
     height: 100%;
     width: 25%;
     text-decoration: none;
+}
+
+footer div p{
+    font-size: 12px;
 }
 
 
